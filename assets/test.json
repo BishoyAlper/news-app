@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Steve Gorman",
+    "title": "Billionaire Branson set to fly to space aboard Virgin Galactic rocket plane - Reuters",
+    "description": "Decades after burnishing his reputation as a wealthy daredevil mogul in a series of boating and hot-air balloon expeditions, Richard Branson is poised to promote his burgeoning astro-tourism venture by launching himself to the final frontier.",
+    "url": "https://www.reuters.com/lifestyle/science/billionaire-branson-set-fly-space-aboard-virgin-galactic-rocket-plane-2021-07-09/",
+    "urlToImage": "https://www.reuters.com/resizer/j7BqhifvflnvnLoelvRZZ-73bck=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UAE7GETSHNNXLH6S7EQZY4W3XY.jpg",
+    "publishedAt": "2021-07-09T12:31:00Z",
+    "content": "Sir Richard Branson stands on the floor of the New York Stock Exchange (NYSE) ahead of Virgin Galactic (SPCE) trading in New York, U.S., October 28, 2019. REUTERS/Brendan McDermidJuly 9 (Reuters) - D… [+5258 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Tanaya Macheel",
+    "title": "Stocks making the biggest moves in the premarket: Levi, General Motors, American Airlines and more - CNBC",
+    "description": "These are the stocks posting the largest moves in premarket trading.",
+    "url": "https://www.cnbc.com/2021/07/09/stocks-making-the-biggest-moves-in-the-premarket-levi-general-motors-american-airlines-and-more.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106258910-1574356856976gettyimages-1167943738.jpeg?v=1574357006",
+    "publishedAt": "2021-07-09T11:49:28Z",
+    "content": "Take a look at some of the biggest movers in the premarket:\r\nLevi Strauss (LEVI) The denim maker added about 3% after reporting quarterly earnings Thursday night that crushed Wall Street expectations… [+2125 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Alexandria Hein",
+    "title": "Americans 'do not need' COVID-19 booster shot, FDA, CDC say - Fox News",
+    "description": "In a statement published hours after Pfizer signaled its intention to file for emergency use authorization for a COVID-19 booster shot, the FDA and Centers for Disease Control and Prevention (CDC) said fully vaccinated Americans “do not need” an extra dose at…",
+    "url": "https://www.foxnews.com/health/americans-do-not-need-covid-19-booster-shot-fda-cdc",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/young_vaccine_istock.jpg",
+    "publishedAt": "2021-07-09T11:45:07Z",
+    "content": "In a statement published hours after Pfizer signaled its intention to file for emergency use authorization for a COVID-19 booster shot, the FDA and Centers for Disease Control and Prevention (CDC) sa… [+2378 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Kate Gibson",
+    "title": "American Airlines flight disrupted by teens who refused to wear masks - CBS News",
+    "description": "Flight crew were forced to reschedule the flight after high school students flouted federal mask rules.",
+    "url": "https://www.cbsnews.com/news/american-airlines-flight-canceled-teens-masks/",
+    "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/08/25/13f39ba7-b242-4262-93bb-c81768adf246/thumbnail/1200x630/bdc870da7906ffbcab91d70df0c1ca0f/gettyimages-534012440.jpg",
+    "publishedAt": "2021-07-09T11:24:28Z",
+    "content": "Passengers aboard an American Airlines flight to the Bahamas spent an unexpected night in Charlotte, North Carolina, after unruly passengers refused to comply with a federal mask mandate. \r\nThe incid… [+2411 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "",
+    "title": "How New Biden Rules Could Make It Easier To Buy Hearing Aids Or Fix Your Phone - NPR",
+    "description": "In a new executive order, President Biden aims to kickstart competition for consumers, workers and farmers in ways both big and small, starting with a list of 72 initiatives.",
+    "url": "https://www.npr.org/2021/07/09/1014415021/how-new-biden-rules-could-make-it-easier-to-buy-hearing-aids-or-fix-your-phone",
+    "urlToImage": "https://media.npr.org/assets/img/2021/07/08/gettyimages-493355924_wide-09565849a002116cef0449f4d1649c33128d2eb9.jpg?s=1400",
+    "publishedAt": "2021-07-09T11:01:00Z",
+    "content": "The Biden administration wants to ban restrictions on fixing devices and equipment part of an executive order on competition to be unveiled on Friday\r\nJewel Samad/AFP via Getty Images\r\nPresident Bide… [+3605 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": null,
+    "title": "Tesla patent reveals Elon Musk’s ‘table salt’ lithium extraction process that could slash costs - Electrek.co",
+    "description": "Tesla has applied for a new patent that is revealing the lithium extraction process that Elon Musk vaguely described as “using table salt to basically extract lithium from ore” during Tesla’s Battery Day last year. It could cut costs by more than 30%, accordi…",
+    "url": "https://electrek.co/2021/07/09/tesla-patent-reveals-elon-musk-table-salt-lithium-extraction-process/",
+    "urlToImage": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-mining.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-07-09T11:01:00Z",
+    "content": "Tesla has applied for a new patent that is revealing the lithium extraction process that Elon Musk vaguely described as “using table salt to basically extract lithium from ore” during Tesla’s Battery… [+4824 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Steve Goldstein",
+    "title": "Here's what a megadrought in North America means for investors — and, possibly, the Fed - MarketWatch",
+    "description": "David Friedberg, the founder and chief executive of San Francisco investment firm The Production Board, laid out the investment implications of the worsening...",
+    "url": "https://www.marketwatch.com/story/heres-what-a-megadrought-in-north-america-means-for-investors-and-possibly-the-fed-11625828432",
+    "urlToImage": "https://images.mktw.net/im-366894/social",
+    "publishedAt": "2021-07-09T11:00:00Z",
+    "content": "As part of its new strategy announced on Thursday, the European Central Bank will consider climate change in its setting of monetary policy, leading to questions on whether it should and how it will … [+5291 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WRAL Tech Wire"
+    },
+    "author": null,
+    "title": "Wells Fargo shuts down personal lines of credit – will your credit score be hurt? - WRAL Tech Wire",
+    "description": "Wells Fargo is shutting down all of its existing personal lines of credit, sparking outrage from consumers and advocates.",
+    "url": "https://www.wraltechwire.com/2021/07/09/wells-fargo-shuts-down-personal-lines-of-credit-will-your-credit-score-be-hurt/",
+    "urlToImage": "https://www.wraltechwire.com/wp-content/uploads/2019/09/wells-fargo-branch-1024x410.jpg",
+    "publishedAt": "2021-07-09T10:14:27Z",
+    "content": "Wells Fargo is shutting down all of its existing personal lines of credit, sparking outrage from consumers and advocates.\r\nA spokesperson for the bank said Wells Fargo made the decision last year as … [+1462 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Matt Novak",
+    "title": "Sen. Warren Wants SEC to Finally Regulate Crypto Markets - Gizmodo",
+    "description": "The Wild West days of Bitcoin and Dogecoin could be numbered if Elizabeth Warren gets her way.",
+    "url": "https://gizmodo.com/sen-warren-wants-sec-to-finally-regulate-crypto-market-1847257623",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6a71acd5383837a518353f3826da890.jpg",
+    "publishedAt": "2021-07-09T10:00:00Z",
+    "content": "Elizabeth Warren has warned that cryptocurrency investors are at the mercy of manipulators and fraudsters because the crypto market isnt properly regulated, according to a new press release from the … [+5901 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Anirban Sen,Echo Wang",
+    "title": "EXCLUSIVE Online payments firm Stripe takes first step toward blockbuster listing -sources - Reuters",
+    "description": "Digital payments processor Stripe Inc, the most valuable U.S. technology startup, has taken its first major step toward a stock market debut by hiring a law firm to help with preparations, according to people familiar with the matter.",
+    "url": "https://www.reuters.com/technology/exclusive-online-payments-firm-stripe-takes-first-step-toward-blockbuster-2021-07-08/",
+    "urlToImage": "https://www.reuters.com/resizer/68PcQAsfkKKHcLCH-GNDti5sFZs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QVRWIC2AA5O3PNPJVVRB2Y2JIQ.jpg",
+    "publishedAt": "2021-07-09T10:00:00Z",
+    "content": "Stripe app logo is displayed in this illustration taken March 15, 2021. REUTERS/Dado Ruvic/IllustrationJuly 8 (Reuters) - Digital payments processor Stripe Inc, the most valuable U.S. technology star… [+2402 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Jack Denton",
+    "title": "Tesla bull calls this auto giant’s $35 billion electric strategy a ‘renaissance’ and says the stock could soar - MarketWatch",
+    "description": "Analyst Dan Ives of Wedbush’s target price on GM stock suggests the shares could climb 50%",
+    "url": "https://www.marketwatch.com/story/tesla-bull-calls-this-auto-giants-35-billion-electric-strategy-a-renaissance-and-says-the-stock-could-soar-11625824004",
+    "urlToImage": "https://images.mktw.net/im-366900/social",
+    "publishedAt": "2021-07-09T09:46:00Z",
+    "content": "General Motors is headed for a renaissance of growth in electric-vehicles, according to this tech analyst, who initiated coverage of the stock giving the shares a target price implying that they coul… [+2758 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": null,
+    "title": "Tesla opens orders across Europe for made-in-China Model Y with Sept. delivery - Electrek.co",
+    "description": "Tesla has started taking orders for Model Y throughout Europe. For current orders, estimated delivery is listed as September for Long Range models. In contrast to original plans, the first Model Ys delivered to Europe will reportedly be produced in Tesla’s Sh…",
+    "url": "https://electrek.co/2021/07/09/tesla-opens-orders-across-europe-for-made-in-china-model-y-with-sept-delivery/",
+    "urlToImage": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Screen-Shot-2021-07-09-at-1.46.38-AM-e1625820458360.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-07-09T09:32:00Z",
+    "content": "Tesla has started taking orders for Model Y throughout Europe. For current orders, estimated delivery is listed as September for Long Range models.\r\nIn contrast to original plans, the first Model Ys … [+2486 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Android Police"
+    },
+    "author": "https://www.facebook.com/ritaelkhoury",
+    "title": "Google Tasks has failed to take off, and Google has no one to blame but itself - Android Police",
+    "description": "There's nothing Google's developers love more than making new messaging apps and task management/to do/reminder apps. When Google Tasks was announced,",
+    "url": "https://www.androidpolice.com/2021/07/09/google-tasks-has-failed-to-take-off-and-google-has-no-one-to-blame-but-itself/",
+    "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2021/07/09/disapproving-droid-google-tasks-hero.jpg",
+    "publishedAt": "2021-07-09T09:20:00Z",
+    "content": "There's nothing Google's developers love more than making new messaging apps and task management/to do/reminder apps. When Google Tasks was announced, more than three years ago, we thought it would b… [+2043 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Nandita Bose and Michelle Price",
+    "title": "Exclusive: White House to target bank mergers, financial data with competition order - Yahoo Finance",
+    "description": "President Joe Biden's planned executive order to promote greater U.S. competition will target bank mergers by pushing the Federal Reserve and the Department ...",
+    "url": "https://finance.yahoo.com/news/exclusive-white-house-target-bank-090752807.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/_uxcQyiPmqM11sQ_g2wQBA--~B/aD01MjQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6031fb53657c4565f27e952d5a29e420",
+    "publishedAt": "2021-07-09T09:07:52Z",
+    "content": "By Nandita Bose and Michelle Price\r\nWASHINGTON (Reuters) - President Joe Biden's planned executive order to promote greater U.S. competition will target bank mergers by pushing the Federal Reserve an… [+4125 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Michelle Toh, CNN Business",
+    "title": "Apple co-founder Steve Wozniak: 'It's time to recognize the right to repair' - CNN ",
+    "description": "Woz is throwing his weight behind the \"right to repair\" movement.",
+    "url": "https://www.cnn.com/2021/07/09/tech/apple-steve-wozniak-right-to-repair-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210708234132-apple-steve-wozniak-super-tease.jpg",
+    "publishedAt": "2021-07-09T08:55:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Billy Bambrough",
+    "title": "Tesla Billionaire Elon Musk Issues Serious Bitcoin And Ethereum Warning—And Calls For ‘Maximizing’ Dogecoin Upgrade After Price Crash - Forbes",
+    "description": "Tesla billionaire Elon Musk, who's repeatedly backed dogecoin over bitcoin, ethereum and other cryptocurrencies in recent months, has again gone to bat for the meme-based cryptocurrency...",
+    "url": "https://www.forbes.com/sites/billybambrough/2021/07/09/tesla-billionaire-elon-musk-issues-bitcoin-and-ethereum-warning-and-calls-for-maximizing-dogecoin-upgrade-after-price-crash/",
+    "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c64fa7ab58a662f3764dfa%2F0x0.jpg",
+    "publishedAt": "2021-07-09T07:47:51Z",
+    "content": "Tesla billionaire Elon Musk, who's repeatedly backed dogecoin over bitcoin, ethereum and other cryptocurrencies in recent months, has again gone to bat for the meme-based cryptocurrency. \r\nMusk, the … [+3706 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Alyse Stanley",
+    "title": "The FCC's Definition of Broadband Internet Is Too Slow, Government Watchdog Finds - Gizmodo",
+    "description": "The current minimum benchmark speeds haven't changed since 2015.",
+    "url": "https://gizmodo.com/the-fccs-definition-of-broadband-internet-is-too-slow-1847257425",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/546d65c287b8cc0392c9d191e9bc735b.jpg",
+    "publishedAt": "2021-07-09T04:20:06Z",
+    "content": "The last time the Federal Communications Commission updated its definition for broadband internet, Mad Men was still airing new episodes on TV. The agencys minimum broadband speeds25 megabits per sec… [+2745 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Charisse Jones, Jessica Menton",
+    "title": "'I'd rather work': Debate rages as states cut unemployment and workers seek jobs, better pay - USA TODAY",
+    "description": "As 26 states end federal unemployment aid early, lawmakers and economists disagree on whether extra aid deters job searches but many say it doesn't.",
+    "url": "https://www.usatoday.com/story/money/2021/07/09/unemployment-benefits-jobs-worker-shortage/7826616002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/a8d8506f-06be-4dde-b19c-7a24a7dcd3d8-Julia_Antoine.png?crop=827,466,x0,y448&width=1600&height=800&fit=bounds",
+    "publishedAt": "2021-07-09T04:01:24Z",
+    "content": "Gov. Gretchen Whitmer wants to spend $300 million in federal COVID-19 funding to help Michigan businesses pay workers $15 an hour (June 3)\r\nAP Domestic\r\nJulie Antoine wants to go back to work.  \r\nThe… [+12832 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Top Fed official warns Delta variant poses threat to global recovery - Financial Times",
+    "description": "San Francisco’s Mary Daly fears ‘premature’ declaration of victory against Covid-19",
+    "url": "https://www.ft.com/content/bf16910d-8558-4e4c-a79f-03edbcee102b",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F49500672-66d0-44ef-885c-fcbf3b55f36f.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2021-07-09T04:01:21Z",
+    "content": "A top Federal Reserve official has warned the spread of the Delta coronavirus variant and low vaccination rates in some parts of the world poses a threat to the global recovery as she urged caution i… [+4631 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/mariella-moon",
+    "title": "Square will build a bitcoin hardware wallet - Engadget",
+    "description": "Square has decided to go ahead with building a bitcoin hardware wallet and service..",
+    "url": "https://www.engadget.com/square-bitcoin-hardware-wallet-033027788.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/43cb92c0-e05c-11eb-aafd-dfeae2250b8a",
+    "publishedAt": "2021-07-09T03:31:33Z",
+    "content": "Square has decided to go ahead with building a bitcoin hardware wallet and service, a month after company CEO Jack Dorsey announced that it's considering the move. Jesse Dorogusker, Square's Hardware… [+1719 chars]"
+  }
+]
+}
